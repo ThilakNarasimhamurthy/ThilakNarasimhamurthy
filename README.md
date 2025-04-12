@@ -1,7 +1,7 @@
 ## Hello, I'm Thilak!👋
 
 🧑‍🎓 Currently pursuing masters in Computer Science at [Pace University](https://www.pace.edu/seidenberg)<br/>
-💼 2.5 years Experience in Project Development,AI and Data Science.<br/>
+💼 2.5 years Experience in Product Development,AI and Data Science.<br/>
 👨‍💻 Aspiring Full stack engineer currently learning LLM and Generatve AI.<br/>
 
 
