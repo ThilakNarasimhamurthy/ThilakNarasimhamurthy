@@ -2,15 +2,15 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thilak-4396451a5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://thilak-narasimhamurthy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tn68334n@pace.edu)
 
 </div>
 
 ## 👨‍💻 About Me
 
-🎓 **Master's in Computer Science** at [Pace University](https://www.pace.edu/seidenberg) (GPA: 3.83/4.0) - Graduating Dec 2025  
+🎓 **Master's in Computer Science** at [Pace University](https://www.pace.edu/seidenberg) (GPA: 3.86/4.0) - Graduating Dec 2025  
 💼 **2.5+ years** of experience in Full-Stack Development, AI/ML, and Product Engineering  
 🚀 Former **Full Stack Team Lead** at Rebel | Product Manager Intern at Vani.Coach  
 🤖 Building production AI systems with **LLMs, RAG pipelines, and Agentic AI**  
@@ -144,9 +144,9 @@ AI-driven autism screening web application
 I'm always open to collaborating on innovative AI/ML projects or discussing full-stack development!
 
 📧 **Email:** tn68334n@pace.edu  
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)  
-🌐 **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)  
-📝 **Publications:** [View my research](YOUR_PUBLICATIONS_LINK)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/thilak-4396451a5/)  
+🌐 **Portfolio:** [Visit my portfolio](https://thilak-narasimhamurthy.vercel.app/)  
+📝 **Publications:** [View my research](https://zenodo.org/records/5234643)
 
 ---
 
