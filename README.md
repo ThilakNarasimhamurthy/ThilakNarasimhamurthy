@@ -89,10 +89,11 @@ AI-driven autism screening web application
 ## 📊 GitHub Statistics
 
 <p align="center">
-<a href="https://github.com/ThilakNarasimhamurthy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
