@@ -88,16 +88,16 @@ AI-driven autism screening web application
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThilakNarasimhamurthy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" height="180"/>
-</div>
+<p align="center">
+<a href="https://github.com/ThilakNarasimhamurthy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilakNarasimhamurthy&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ThilakNarasimhamurthy&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🏆 Achievements & Certifications
 
