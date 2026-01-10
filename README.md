@@ -100,11 +100,6 @@ AI-driven autism screening web application
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ThilakNarasimhamurthy&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
