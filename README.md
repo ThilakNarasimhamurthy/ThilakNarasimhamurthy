@@ -86,15 +86,25 @@ AI-driven autism screening web application
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/ThilakNarasimhamurthy">
+    <img src="https://img.shields.io/github/followers/ThilakNarasimhamurthy?label=Followers&style=for-the-badge&color=brightgreen" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ThilakNarasimhamurthy?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Repos-20+-blue?style=for-the-badge" alt="Total Repos" />
+  </a>
+  <a href="https://github.com/ThilakNarasimhamurthy">
+    <img src="https://img.shields.io/github/stars/ThilakNarasimhamurthy?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+### 🏆 GitHub Highlights
+- 💻 **10+ Public Repositories** featuring AI/ML and Full-Stack projects
+- 🌟 Focus on **Production AI Systems** and **Scalable Web Applications**
+- 🚀 Active contributor in **LLM, RAG, and Agentic AI** development
+- 📚 Published research and open-source contributions
 
 ## 🏆 Achievements & Certifications
 
