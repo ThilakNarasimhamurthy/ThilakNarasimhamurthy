@@ -100,25 +100,6 @@ AI-driven autism screening web application
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilakNarasimhamurthy&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThilakNarasimhamurthy&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ThilakNarasimhamurthy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThilakNarasimhamurthy&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
