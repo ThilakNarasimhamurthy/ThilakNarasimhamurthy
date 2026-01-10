@@ -100,6 +100,39 @@ AI-driven autism screening web application
   </a>
 </p>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThilakNarasimhamurthy&theme=chartreuse_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThilakNarasimhamurthy&theme=chartreuse_dark" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThilakNarasimhamurthy&theme=chartreuse_dark" alt="Most Commit Language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThilakNarasimhamurthy&theme=chartreuse_dark" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThilakNarasimhamurthy&theme=chartreuse_dark" alt="Productive Time" width="48%" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThilakNarasimhamurthy&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThilakNarasimhamurthy&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+## 📊 GitHub Statistics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThilakNarasimhamurthy&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThilakNarasimhamurthy&theme=chartreuse_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThilakNarasimhamurthy&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThilakNarasimhamurthy&theme=chartreuse_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThilakNarasimhamurthy&theme=chartreuse_dark)
+
 ### 🏆 GitHub Highlights
 - 💻 **10+ Public Repositories** featuring AI/ML and Full-Stack projects
 - 🌟 Focus on **Production AI Systems** and **Scalable Web Applications**
