@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Master's in Computer Science** at [Pace University](https://www.pace.edu/seidenberg) (GPA: 3.86/4.0) - Graduating Dec 2025  
-💼 **2.5+ years** of experience in Full-Stack Development, AI/ML, and Product Engineering  
-🚀 Former **Full Stack Team Lead** at Rebel | Product Manager Intern at Vani.Coach  
+🎓 **Master's in Computer Science** at [Pace University](https://www.pace.edu/seidenberg) (GPA: 3.86/4.0) -  Dec 2025  
+💼 **3 years** of experience in Full-Stack Development, AI/ML, and Product Engineering  
+🚀 Former ** software engineer Full Stack Team Lead** at Rebel | Product  Intern at Vani.Coach  
 🤖 Building production AI systems with **LLMs, RAG pipelines, and Agentic AI**  
 🏆 **Student Board Member** at Wilson Center - Managing $50,000+ in funding  
 📝 **Published Author** - Co-authored research on "Artificial Intelligence Techniques in Oil Industry"
